@@ -1,1 +1,1 @@
-# blog-discus
+# blog-comments
